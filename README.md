@@ -219,10 +219,22 @@ Contributions are welcome! To contribute:
 
 > Please ensure your code follows PEP 8 guidelines and includes appropriate documentation.
 
-License
--------
+## Project's Screenshots 
+#### Landing Page 
+<img src="https://github.com/hariteja-01/House-Price-Predictor/blob/main/python_landing_page.png" alt="flowchart" width="500"/>
 
-This project is licensed under the MIT License. See the file for details.
+#### Price Predictions Output 
+<img src="https://github.com/hariteja-01/House-Price-Predictor/blob/main/python_price_predctions.png" alt="flowchart" width="500"/> 
+
+#### Market Trend Visualization 
+<img src="https://github.com/hariteja-01/House-Price-Predictor/blob/main/python_market_trends.png" alt="flowchart" width="500"/>
+
+#### GeoSpacial Map
+<img src="https://github.com/hariteja-01/House-Price-Predictor/blob/main/python_geospacial_map.png" alt="flowchart" width="500"/>
+
+#### Model Performance Metrics
+<img src="https://github.com/hariteja-01/House-Price-Predictor/blob/main/python_model_performance.png" alt="flowchart" width="500"/>
+
 
 Acknowledgments
 ---------------
