@@ -245,7 +245,7 @@ Acknowledgments
     
 *   **Plotly & Folium**: For powerful visualization capabilities.
     
-*   **Data Providers**: For the real estate sales dataset (source to be credited if applicable).
+*   **Data Providers**: For the real estate sales dataset (https://catalog.data.gov/dataset/real-estate-sales-2001-2018).
     
 
 Contact
