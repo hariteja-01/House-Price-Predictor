@@ -79,7 +79,7 @@ pip install -r requirements.txt
 ### Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run RealEstateHousePricePredictor.py
 ```
 
 > Open your browser and navigate to http://localhost:8501.
