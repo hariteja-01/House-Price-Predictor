@@ -2,6 +2,32 @@
 
 ![Real Estate Analytics](https://img.shields.io/badge/Streamlit-App-blue) ![Python](https://img.shields.io/badge/Python-3.8%2B-green) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Enabled-orange) ![License](https://img.shields.io/badge/License-MIT-yellow)
 
+## Developer Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hariteja-01&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hariteja-01&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariteja-01&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hariteja-01&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/hariteja-01?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hariteja-01&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
 ## Overview
 
 The **Real Estate House Price & Analytics Predictor** is an advanced, interactive web application built with Streamlit, designed to provide real estate professionals, investors, market analysts, and property developers with data-driven insights and accurate price predictions. Leveraging a robust dataset of real estate sales from 2001 to 2022, this tool combines cutting-edge machine learning algorithms, statistical analysis, and geospatial visualizations to deliver a comprehensive platform for property valuation and market trend analysis.
