@@ -155,7 +155,7 @@ def load_data():
             return data
         
         # Load the raw data
-        data = pd.read_csv('Real_Estate_Sales_2001-2022_GL.csv', nrows=100000)
+        data = pd.read_csv("Real_Estate_Sales_2001-2022_GL.csv.bz2", compression="bz2", nrows=100000)
         
         # Clean up column names - strip whitespace
         data.columns = [col.strip() for col in data.columns]
